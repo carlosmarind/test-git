@@ -3,3 +3,5 @@ hola mundo desde develop
 mas mensajes, 
 nuevos
 nueva funcionalidad de reportes
+
+este bloque arregla la funcionalidad de reportes.
